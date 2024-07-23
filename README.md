@@ -5,7 +5,7 @@
 
 💬 Ask me about Front-End-Engineering, Product Sense, Voice AI
 
-📫 Reach me: https://www.linkedin.com/in/nehasuresh1904/ || https://x.com/Neha_Suresh_M
+📫 Reach me: [LinkedIn](https://www.linkedin.com/in/nehasuresh1904/) || [X](https://x.com/Neha_Suresh_M)
 
 
 
