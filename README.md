@@ -1,7 +1,11 @@
 ## Hi there 👋 I'm Neha
-🔭 I’m currently working on building a Testing tool for AI Voice Agents - [Flame](withflame.com)
+🔭 I’m currently working on building a Testing tool for AI Voice Agents - [NotHotDog](nothotdog.dev)
 
-👯 I’m looking to collaborate on my project - [Taro](https://github.com/NehaMadnani/taro-app) - a Chrome Extension 
+👯 I’m looking to collaborate on my projects
+
+1. [NotHotDog](https://github.com/vedhsaka/Nothotdog) - a Testing Tool for Voice AI Applications
+
+2. [Taro](https://github.com/NehaMadnani/taro-app) - a Chrome Extension 
 
 💬 Ask me about Front-End-Engineering, Product Sense, Voice AI
 
