@@ -1,4 +1,7 @@
 ## Hi there 👋 I'm Neha
+
+⚡ I'm a Master's student at Carnegie Mellon University
+
 🔭 I’m currently working on building a Testing tool for AI Voice Agents - [NotHotDog](nothotdog.dev)
 
 👯 I’m looking to collaborate on my projects
