@@ -10,7 +10,7 @@
 
 2. [Taro](https://github.com/NehaMadnani/taro-app) - a Chrome Extension 
 
-💬 Ask me about Front-End-Engineering, Product Sense, Voice AI
+💬 Ask me about Front-End-Engineering, Product Sense, Voice AI, Static Site Generators
 
 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/nehasuresh1904/) || [X](https://x.com/Neha_Suresh_M)
 
