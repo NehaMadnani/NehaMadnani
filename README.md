@@ -1,4 +1,4 @@
-## Hello there 👋 I'm Neha
+## Hi there 👋 I'm Neha
 
 ⚡ I'm a Master's student at Carnegie Mellon University
 
