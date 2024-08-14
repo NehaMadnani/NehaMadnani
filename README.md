@@ -2,7 +2,7 @@
 
 ⚡ I'm a Master's student at Carnegie Mellon University
 
-🔭 I’m currently building a Testing tool for AI Voice Agents - [NotHotDog](https://github.com/vedhsaka/Nothotdog).
+🔭 I’m currently building a Testing tool for AI Voice Agents - [NotHotDog](https://github.com/vedhsaka/Nothotdog). Check it out on [Product Hunt ](https://www.producthunt.com/posts/nothotdog-alpha)
 
 👯 I’m looking to collaborate on my projects - reach out to me if you're excited by either of the projects!
 
