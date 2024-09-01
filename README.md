@@ -2,7 +2,7 @@
 
 ⚡ I'm a Master's student at Carnegie Mellon University
 
-🔭 I’m currently building a Testing tool for AI Voice Agents - [NotHotDog](https://github.com/vedhsaka/Nothotdog). Check it out on [Product Hunt ](https://www.producthunt.com/posts/nothotdog-alpha)
+🔭 I’m currently building a Testing tool for AI Voice & Conversational Agents - [NotHotDog](https://github.com/vedhsaka/Nothotdog). Check it out on [Product Hunt ](https://www.producthunt.com/posts/nothotdog-alpha)
 
 👯 I’m looking to collaborate on my projects - reach out to me if you're excited by either of the projects!
 
@@ -10,7 +10,7 @@
 
 2. [Taro](https://github.com/NehaMadnani/taro-app) - a Chrome Extension 
 
-💬 Ask me about Front-End-Engineering, Product Sense, Voice AI, Static Site Generators, LLM Evaluation
+💬 Ask me about Front-End-Engineering, Product Sense, Voice AI, Static Site Generators, LLM Evaluation, React JS
 
 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/nehasuresh1904/) || [X](https://x.com/Neha_Suresh_M)
 
