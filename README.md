@@ -2,7 +2,7 @@
 
 ⚡ I'm a Master's student at Carnegie Mellon University
 
-🔭 I’m currently building a Testing platform for AI Voice & Conversational Agents - [NotHotDog]((https://github.com/AgentEvaluation/NotHotDog)). 
+🔭 I’m currently building a Testing platform for AI Voice & Conversational Agents - [NotHotDog](https://github.com/AgentEvaluation/NotHotDog) . 
 
 ⚡ Previously built an API testing tool. Check it out on [Product Hunt ](https://www.producthunt.com/posts/nothotdog-alpha)
 
