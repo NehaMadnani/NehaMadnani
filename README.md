@@ -6,7 +6,7 @@
 
 ⚡ Previously built an API testing tool. Check it out on [Product Hunt ](https://www.producthunt.com/posts/nothotdog-alpha)
 
-👯 I’m looking to collaborate on my projects - reach out to me if you're excited by either of the projects!
+👯 I’m looking to collaborate on my side projects - reach out to me if you're excited by either of the projects!
 
 1. [NotHotDog](https://github.com/vedhsaka/Nothotdog) - a Testing Tool for Voice AI Agents & LLM Applications.
 
