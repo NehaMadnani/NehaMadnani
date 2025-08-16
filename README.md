@@ -1,8 +1,8 @@
 ## Hi there 👋 I'm Neha
 
-⚡ I'm a Master's student at Carnegie Mellon University
+⚡ I'm building a voice Executive Assistant for managing email & calenadr on the go - [April YC S25](https://tinyurl.com/april-ea) .
 
-🔭 I’m currently building a Testing platform for AI Voice & Conversational Agents - [NotHotDog](https://github.com/AgentEvaluation/NotHotDog) . 
+🔭 I’m previously built a Testing platform for AI Voice & Conversational Agents - [NotHotDog](https://github.com/AgentEvaluation/NotHotDog) . 
 
 ⚡ Previously built an API testing tool. Check it out on [Product Hunt ](https://www.producthunt.com/posts/nothotdog-alpha)
 
