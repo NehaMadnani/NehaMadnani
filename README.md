@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Neha
 
-⚡ I'm building a voice Executive Assistant for managing email & calenadr on the go - [April YC S25](https://tinyurl.com/april-ea) .
+⚡ I'm building a voice Executive Assistant for managing email & calendar on the go - [April YC S25](https://tinyurl.com/april-ea) .
 
 🔭 I’m previously built a Testing platform for AI Voice & Conversational Agents - [NotHotDog](https://github.com/AgentEvaluation/NotHotDog) . 
 
